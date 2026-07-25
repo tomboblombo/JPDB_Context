@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JPDB Context</string>
+    <string name="menu_open_in_jpdb">JPDB: Search</string>
+    <string name="menu_add_to_deck">JPDB: Add to deck…</string>
+    <string name="settings_title">JPDB Context Settings</string>
+    <string name="api_key_label">API Key</string>
+    <string name="save_button">Save</string>
+    <string name="api_key_hint">Enter your JPDB API key</string>
+    <string name="select_deck">Select Deck</string>
+    <string name="refresh_button">Refresh</string>
+    <string name="add_to_deck_button">Add to Deck</string>
+    <string name="buy_me_a_coffee">Buy me a coffee</string>
+</resources>
